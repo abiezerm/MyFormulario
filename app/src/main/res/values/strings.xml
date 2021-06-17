@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="formulario">Formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="adress">Adress</string>
+    <string name="adress2">Adress 2</string>
+    <string name="adress3">Adress 3</string>
+    <string name="adress4">Adress 4</string>
+    <string name="adress5">Adress 5</string>
+    <string name="agregar">Guardar</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="informacion">Informacion</string>
+</resources>
